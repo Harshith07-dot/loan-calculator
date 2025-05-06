@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/loan-calcultor/static/js/main.2db9b2c6.js",
-    "index.html": "/loan-calcultor/index.html",
-    "main.2db9b2c6.js.map": "/loan-calcultor/static/js/main.2db9b2c6.js.map"
+    "main.js": "/loan-calculator/static/js/main.2db9b2c6.js",
+    "index.html": "/loan-calculator/index.html",
+    "main.2db9b2c6.js.map": "/loan-calculator/static/js/main.2db9b2c6.js.map"
   },
   "entrypoints": [
     "static/js/main.2db9b2c6.js"
